@@ -1,10 +1,9 @@
 package com.springlearning.javagamingapp;
 
 import com.springlearning.javagamingapp.game.GameRunner;
-import com.springlearning.javagamingapp.game.MarioGame;
 import com.springlearning.javagamingapp.game.SuperContraGame;
 
-public class AppGamingBasicJava {
+public class App001GamingBasicJava {
 
     public static void main (String[] agrs) {
         //var game =  new MarioGame();
